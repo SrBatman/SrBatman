@@ -14,6 +14,6 @@
 		</a>
 	</p>
 	<a href="https://discord.com/users/395448252528459777">
-		<img alt="my discord activity" src="https://lanyard.cnrad.dev/api/395448252528459777?idleMessage=Not%20doing%20anything%20rn.&borderRadius=5px&bg=18191c" />
+		<img alt="my discord activity" src="https://lanyard.cnrad.dev/api/395448252528459777" />
 	</a>
 </div>
