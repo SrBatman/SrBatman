@@ -1,6 +1,6 @@
 <div align="center">
 	<h2>I'm SrBatman! 🦇</h2>
-	<p><code>21y old, developer, gamer, translator</code></p>
+	<p><code>21y old, developer, gamer, translator, and student</code><br>Working everyday to be better</p>
 	<a href="https://x.com/__MrAsshole__">
 		<img alt="my twitter" src="https://img.shields.io/static/v1?label=my%20twitter%3A&message=@__MrAsshole__&color=0e0e0e&logo=X" />
 	</a>
